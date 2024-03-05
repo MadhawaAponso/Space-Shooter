@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6d1cfd8f5cf42141b58237c4d29ccac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Amuttix Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2232c3fd45a8a44ab29c4f4be9229a5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
